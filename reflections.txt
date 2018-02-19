@@ -7,3 +7,31 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+
+## What new skills have you learned?
+
+From this lesson, I have learned the importance of using semantic tagging of content that is afforded by newer HTML5 elements. I learned about how to use appropriate elements for sectioning content, inline text semantics and tags to use for images. 
+
+From looking at resources from Mozilla Developer Docs I also was able to find tangebale concepts such as HTML5 outline algorithm and implicit headings.
+
+## What has been easy?
+
+Some of tags for inline text semantics and sectioning elements were easy to identify and apply to tags to, such as paragraph tags and article tags.
+
+## What has been difficult?
+
+Choosing the correct semantic tags can be a difficult challange, especially when multiple tags seems to applicable for certain pieces of content.
+
+Also, I found it challenging when nesting tags because I was fearful of what the SEO/semantic outcome would be.
+
+## How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+I used some of the following problem solving strategies: 
+
+1. Utilized the MDN HTML elements resource to look, and tangent material
+2. Using a validator to make sure that after all the tags were applies that it meet HTML5 validation
+3. Research on the various tags and their corresponding semantic definitions
+4. Looking at other peoples code to review and check my own approach to solving the challenge.
+5. finally checking my work against the rubric outlined for this particular challenge
+
+
